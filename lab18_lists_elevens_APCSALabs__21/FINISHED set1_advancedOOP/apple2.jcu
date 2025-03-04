@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>apple</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>apple</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>1.advOOP_Monster_lab1_java_aplus</path>
+			</folderitem>
+			<folderitem>
+				<path>2.advOOP_Rational_lab_java_aplus</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>1.advOOP_Monster_lab1_java_aplus\Monster.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>1.advOOP_Monster_lab1_java_aplus\MonsterRunner.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>2.advOOP_Rational_lab_java_aplus\Rational.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>2.advOOP_Rational_lab_java_aplus\RationalRunner.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

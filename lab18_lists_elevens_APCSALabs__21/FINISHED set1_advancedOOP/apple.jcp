@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>apple</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run/>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>1.advOOP_Monster_lab1_java_aplus</path>
+			</folderitem>
+			<folderitem>
+				<path>2.advOOP_Rational_lab_java_aplus</path>
+			</folderitem>
+			<fileitem>
+				<path>1.advOOP_Monster_lab1_java_aplus\Monster.java</path>
+				<folder>1.advOOP_Monster_lab1_java_aplus</folder>
+			</fileitem>
+			<fileitem>
+				<path>1.advOOP_Monster_lab1_java_aplus\MonsterRunner.java</path>
+				<folder>1.advOOP_Monster_lab1_java_aplus</folder>
+			</fileitem>
+			<fileitem>
+				<path>2.advOOP_Rational_lab_java_aplus\Rational.java</path>
+				<folder>2.advOOP_Rational_lab_java_aplus</folder>
+			</fileitem>
+			<fileitem>
+				<path>2.advOOP_Rational_lab_java_aplus\RationalRunner.java</path>
+				<folder>2.advOOP_Rational_lab_java_aplus</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
