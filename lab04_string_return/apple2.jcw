@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>apple</label>
+	</settings>
+	<users>
+		<user>
+			<path>apple2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>apple.jcp</path>
+		</project>
+	</projects>
+</workspace>
