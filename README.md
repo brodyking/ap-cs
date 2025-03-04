@@ -1,5 +1,5 @@
 # ap-cs classwork
-Thank you Wr. Steinmeyer. W Teacher.
+Thank you Mr. Steinmeyer. W Teacher.
 
 Not all of the assignments are complete. Only did sections of each.
 
