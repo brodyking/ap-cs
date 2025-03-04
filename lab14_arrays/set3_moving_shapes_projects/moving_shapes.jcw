@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>moving_shapes</label>
+	</settings>
+	<users>
+		<user>
+			<path>moving_shapes.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>moving_shapes.jcp</path>
+		</project>
+	</projects>
+</workspace>

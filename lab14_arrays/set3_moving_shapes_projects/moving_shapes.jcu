@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>moving_shapes</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>moving_shapes</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>GraphicsRunner.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>MovingShapePanel.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Shape.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>ShapePanel.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
