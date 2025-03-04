@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>lab10_boolean</label>
+	</settings>
+	<users>
+		<user>
+			<path>lab10_boolean.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>lab10_boolean.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>lab10_boolean</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>lab10_boolean</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>7.boolean_Board</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>BiggestString.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>StringRunner.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>RockPaperScissors.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>RPSRunner.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Triples.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>TriplesRunner.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
