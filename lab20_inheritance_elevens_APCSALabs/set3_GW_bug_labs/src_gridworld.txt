@@ -1,0 +1,6 @@
+"C:\\Documents and Settings\\All Users\\Documents\\APLUSCOMPSCI\\curriculum\\GridWorld\\labs\\GWInheritBugLabs20\\sols\\Number.java"
+"C:\\Documents and Settings\\All Users\\Documents\\APLUSCOMPSCI\\curriculum\\GridWorld\\labs\\GWInheritBugLabs20\\sols\\NumberBug.java"
+"C:\\Documents and Settings\\All Users\\Documents\\APLUSCOMPSCI\\curriculum\\GridWorld\\labs\\GWInheritBugLabs20\\sols\\NumberBugRunner.java"
+"C:\\Documents and Settings\\All Users\\Documents\\APLUSCOMPSCI\\curriculum\\GridWorld\\labs\\GWInheritBugLabs20\\sols\\NumberDisplay.java"
+"C:\\Documents and Settings\\All Users\\Documents\\APLUSCOMPSCI\\curriculum\\GridWorld\\labs\\GWInheritBugLabs20\\sols\\TriangleNumberBug.java"
+"C:\\Documents and Settings\\All Users\\Documents\\APLUSCOMPSCI\\curriculum\\GridWorld\\labs\\GWInheritBugLabs20\\sols\\TriangleNumberBugRunner.java"
