@@ -25,3 +25,4 @@ Not all of the assignments are complete. Only did sections of each.
 | Lab 18 - Set 1 | 1, 2             |
 | Lab 18 - Set 2 | 1, 2             |
 | Lab 18 - Set 3 | 1, 2             |
+| Lab 20 - Set 2 | 1                |
