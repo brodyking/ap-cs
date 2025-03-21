@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date - 
 //Class -
@@ -13,6 +13,9 @@ public class PascalsTriangleRunner
 {
 	public static void main( String args[] ) throws IOException
 	{
+		PascalsTriangle jaanCantKeepHisHandsOffMen = new PascalsTriangle(7);
+		jaanCantKeepHisHandsOffMen.createTriangle();
+		System.out.println(jaanCantKeepHisHandsOffMen);
 	}
 }
 
