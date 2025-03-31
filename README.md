@@ -3,7 +3,7 @@ Thank you Mr. Steinmeyer. W Teacher.
 
 Not all of the assignments are complete. Only did sections of each.
 
-*last updated 3/4/2025*
+*last updated 03/31/2025*
 
 | Lab            | Parts Completed  |
 | -------------- | ---------------- |
@@ -26,3 +26,4 @@ Not all of the assignments are complete. Only did sections of each.
 | Lab 18 - Set 2 | 1, 2             |
 | Lab 18 - Set 3 | 1, 2             |
 | Lab 20 - Set 2 | 1                |
+| Lab 22 - Set 1 | 2, 4, 9          |

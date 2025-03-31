@@ -45,14 +45,7 @@ public class PascalsTriangle
 			for (int col = 0; col < mat[row].length; col++) {
 
 				if (row >= 3 && mat[row][col] != 1) {
-
-					if (col == 1) {
-						mat[row][col] = mat[row-1][0] + mat[row-1][1];
-					} else if (col == mat[row].length-2) {
-						mat[row][col] = mat[row-1][0] + mat[row-1][1];
-					}
-
-
+					mat[row][col] = mat[row-1][col-1] + mat[row-1][col];
 				}
 
 			}

@@ -18,6 +18,3 @@ public class PascalsTriangleRunner
 		System.out.println(jaanCantKeepHisHandsOffMen);
 	}
 }
-
-
-
